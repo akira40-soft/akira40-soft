@@ -48,14 +48,14 @@
 
   ### 📊 GitHub Stats
 
-  <img src="https://github-readme-stats.vercel.app/api?username=akira40-soft&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akira40-soft&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=akira40-soft&show_icons=true&theme=dark&hide_border=true&bg_color=000000&border_color=000000&text_color=FFFFFF&icon_color=FFFFFF&title_color=FFFFFF" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akira40-soft&layout=compact&theme=dark&hide_border=true&bg_color=000000&border_color=000000&text_color=FFFFFF&title_color=FFFFFF" height="160"/>
 
   <br><br>
 
   ### 📈 Contribution Graph
 
-  [![Gráfico de Atividade](https://github-readme-activity-graph.vercel.app/graph?username=akira40-soft&theme=github-dark&bg_color=0D1117&hide_border=true)](https://github.com/akira40-soft)
+  [![Gráfico de Atividade](https://github-readme-activity-graph.vercel.app/graph?username=akira40-soft&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&area_color=222222&hide_border=true)](https://github.com/akira40-soft)
 
   <hr>
 

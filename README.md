@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.jpg" alt="Banner" width="100%"/>
+<img src="banner.jpg" alt="Banner" width="50%" height="200"/>
 
 ### hey, I'm **Isaac Quarenta** 
 

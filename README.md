@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="banner.jpg" alt="Banner" width="100%"/>
+
 ### Olá, eu sou o **SoftEdge** 👋
 
 **Desenvolvedor Full-Stack | Angola 🇦🇴**
